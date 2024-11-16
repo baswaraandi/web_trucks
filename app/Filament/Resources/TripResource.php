@@ -24,7 +24,7 @@ class TripResource extends Resource
             ->schema([
                 Forms\Components\Select::make('truck_id')
                     ->label('Truck')
-                    ->options(Truck::all()->pluck('model', 'id'))
+                    ->options(Truck::all()->pluck('license_plate', 'id'))
                     ->required()
                     ->reactive(),
 
