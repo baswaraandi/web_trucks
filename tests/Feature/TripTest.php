@@ -73,7 +73,7 @@ class TripTest extends TestCase
 
         $response->assertStatus(422);
         $response->assertJson([
-            'driver_id' => ['The selected driver id is invalid.']
+            'driver_id' => ['The selected driver is invalid.']
         ]);
     }
 }
