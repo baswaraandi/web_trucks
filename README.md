@@ -9,6 +9,8 @@
 
 ## Login ke Aplikasi
 
+Akses menggunakan url : http://localhost/admin
+
 Gunakan kredensial berikut untuk login:
 
 <pre>
