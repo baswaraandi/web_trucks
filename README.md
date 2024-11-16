@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Login ke Aplikasi
+
+Gunakan kredensial berikut untuk login:
+
+<pre>
+<b>Username:</b> <code>admin@mail.com</code>
+<b>Password:</b> <code>password123</code>
+</pre>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
